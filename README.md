@@ -7,4 +7,5 @@ Básico de go para rest apis
 2. $ export PATH=$PATH:/usr/local/go/bin
 3. $ export GOPATH=$HOME/local-do-arquivo/go-basic-rest-api
 4. $ cd local-do-arquivo/go-basic-rest-api
-5. $ go run *.go
+5. $ go get github.com/gorilla/mux
+6. $ go run *.go
